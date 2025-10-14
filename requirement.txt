@@ -1,0 +1,15 @@
+osmnx
+scikit-learn
+simdkalman
+tables
+tensorboard
+torch
+torch_cluster
+torch-geometric
+torch_scatter
+torch_sparse
+torch_spline_conv
+torchtext
+tqdm
+transbigdata==0.5.3
+tsmoothie
