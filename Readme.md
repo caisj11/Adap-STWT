@@ -77,7 +77,7 @@ This script will:
 
 #### Step 3: Train and Evaluate the Model
 
-Train the Adap-STWT model and perform traffic flow prediction:
+Train the Adap-STWT model and perform prediction:
 
 ```bash
 python run_main.py
@@ -88,5 +88,6 @@ This script will:
 - Initialize the Adap-STWT model
 - Train the model with adaptive graph learning
 - Evaluate on test set and report metrics (MAE, RMSE, MAPE)
+
 
 
