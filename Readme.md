@@ -5,10 +5,6 @@
 -->
 # Adap-STWT
 
-## Overview
-
-This repository contains the implementation of Adap-STWT, an adaptive spatial-temporal model for traffic flow prediction. The model learns microscopic graph structures from trajectory data and performs accurate traffic flow forecasting on urban road networks.
-
 ## 📊 Datasets
 
 ### Qingdao Dataset
@@ -92,4 +88,5 @@ This script will:
 - Initialize the Adap-STWT model
 - Train the model with adaptive graph learning
 - Evaluate on test set and report metrics (MAE, RMSE, MAPE)
+
 
