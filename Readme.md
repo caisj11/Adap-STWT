@@ -17,15 +17,6 @@
 - **Description**: Contains taxi trajectory data from Chengdu city
 - **Data Type**: GPS trajectory data
 
-### 🚀 Quick Start
-
-For quick start, we provide preprocessed intermediate variables:
-
-**Download Link:** https://pan.baidu.com/s/1GVtnohku_4yXoVhI4XZ9Kw  
-**Access Code:** 3yhf
-
-Extract the downloaded `data` folder to the project root directory. This allows you to skip the preprocessing steps and directly run `python run_main.py` for model training and testing.
-
 ## Installation
 
 ### Install Dependencies
@@ -88,6 +79,17 @@ This script will:
 - Initialize the Adap-STWT model
 - Train the model with adaptive graph learning
 - Evaluate on test set and report metrics (MAE, RMSE, MAPE)
+
+## Citation
+@ARTICLE{11554185,
+  author={Cai, Shijie and Hu, Jie and Chen, Jia and Xu, Wencai},
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={Adap-STWT: Real-Time Traffic Flow Prediction Based on Multi-Scale Graph Adaptive Fusion and Spatio-Temporal Wavelet Transformer}, 
+  year={2026},
+  pages={1-14},
+  doi={10.1109/TITS.2026.3698123},
+  ISSN={1558-0016},
+  month={},}
 
 
 
