@@ -27,17 +27,6 @@ pip install -r requirement.txt
 
 ## 📦 Usage
 
-### Quick Start (Using Preprocessed Data)
-
-If you have downloaded the preprocessed data:
-
-1. Extract the downloaded data to the `data/` directory
-2. Run the main training script:
-
-```bash
-python run_main.py
-```
-
 ### Full Pipeline (From Raw Data)
 
 #### Step 1: Data Preprocessing
